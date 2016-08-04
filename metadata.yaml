@@ -1,0 +1,27 @@
+_repo: The-High-History-of-the-Holy-Graal_750
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Evans, Sebastian
+    birthdate: 1830
+    deathdate: 1909
+    gutenberg_agent_id: '386'
+    url: http://www.gutenberg.org/2009/agents/386
+description: Continuation of Chretien DeTroyes' unfinished work "Perceval, or the
+  Knight of the Grail"
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Perceval (Legendary character) -- Romances'
+- !lcc 'PQ'
+- !lcsh 'Grail -- Legends'
+- !lcsh 'Arthurian romances'
+- GITenberg
+title: The High History of the Holy Graal
+url: http://www.gutenberg.org/ebooks/750
